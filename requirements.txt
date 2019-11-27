@@ -1,0 +1,12 @@
+Work developed using Python 3.6 with Jupyter Notebook 5.7.8.
+Both environments were managed through Anaconda2 (version 1.7.2).
+
+Python libraries used:
+- numpy
+- pandas
+- matplotlib
+- scipy
+- sklearn
+- statsmodels
+- xgboost
+- tsfresh
